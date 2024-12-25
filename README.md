@@ -1,13 +1,17 @@
 🎩 Relational Database in Go (with PostgreSQL Magic)
-Why This Exists
+
+Why This Exists?
+
 Decided to crank up my Golang skills – and what better way than by wrangling a relational database?  
 PostgreSQL + Go = chef’s kiss.  
 
 🛠️ What You’ll Need
+
 - PostgreSQL – Either install it the old-fashioned way (binary download) or roll with Docker like I did.  
 - Golang– Obviously.  
 
 🚀 Spinning Up PostgreSQL (Docker Style)  
+
 Don’t feel like installing Postgres directly? I didn't either lol.  
 Run this one-liner to get Postgres up and running in Docker:  
 ```bash
